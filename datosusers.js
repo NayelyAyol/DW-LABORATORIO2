@@ -1,3 +1,4 @@
+// Utilización de una API para usuarios
 let url = "https://jsonplaceholder.typicode.com/users";
 
 const obtenerUsaurios = async () => {
@@ -24,3 +25,4 @@ const pintarUsuarios = (data) =>
     }
     document.getElementById("data").innerHTML = body;
 };
+
