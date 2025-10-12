@@ -13,8 +13,8 @@ Este proyecto fue completado por las siguientes integrantes:
 
 ## 🗂️ Fuente usada para la realización del Proyecto
 
-| Spotify | <img src="Imagenes/BrunoMars.jpeg" width="650" height="650"/> |
+ <img src="Imagenes/BrunoMars.jpeg" width="650" height="650"/> |
 
 ## 🧾 Resultados del Proyecto
 
-| Resultado | <img src="Imagenes/Resultados.jpeg" width="650" height="650"/> |
+ <img src="Imagenes/Resultados.jpeg" width="650" height="650"/> |
