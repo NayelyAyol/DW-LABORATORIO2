@@ -1,6 +1,6 @@
-<h1 align="center">🔴⚪POKÉMON🔴⚪</h1>
+<h1 align="center">🎶 SPOTIFY 🎶</h1>
 
-Visita la página donde encontraras todos tus personajes de pokémon favoritos. A su vez, diviertete con memes y gifs únicos.
+Para la realizacion de la actividad se tomo como ejemplo la plataforma Spotify. Los variables y funciones se inspiraron en los detalles y características del cantante Bruno Mars, sus canciones y el perfil del usuario.
 
 
 ## 🛠️ Creado por
@@ -11,11 +11,10 @@ Este proyecto fue completado por las siguientes integrantes:
 - Alessia Pérez
 - Emily Galeas
 
-## 🗂️ Vista Previa del Proyecto
+## 🗂️ Fuente usada para la realización del Proyecto
 
-| Apartado             | Vista                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Pokemons | <img src="Imagenes/pokemon.jpeg" width="650" height="650"/> |
-| Usuarios | <img src="Imagenes/usuarios.jpeg" width="650" height="650"/> |
-| Memes | <img src="Imagenes/memes.jpeg" width="650" height="650"/> |
-| Gif | <img src="Imagenes/gif.jpeg" width="650" height="650"/> |
+| Spotify | <img src="Imagenes/BrunoMars.jpeg" width="650" height="650"/> |
+
+## 🧾 Resultados del Proyecto
+
+| Resultado | <img src="Imagenes/Resultado.jpeg" width="650" height="650"/> |
