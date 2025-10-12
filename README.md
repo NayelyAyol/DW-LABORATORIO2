@@ -1,6 +1,6 @@
-<h1 align="center">🔴⚪POKÉMON🔴⚪</h1>
+<h1 align="center">✨📸 INSTAGRAM 📸✨</h1>
 
-Visita la página donde encontraras todos tus personajes de pokémon favoritos. A su vez, diviertete con memes y gifs únicos.
+Al ser una red social muy usada, es una fuente de datos útil. Como tal, es de gran ayuda para practicar el uso de objetos al representar usuarios, publicaciones o comentarios y arreglos para agrupar varias de estas entidades.
 
 
 ## 🛠️ Creado por
