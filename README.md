@@ -11,11 +11,10 @@ Este proyecto fue completado por las siguientes integrantes:
 - Alessia Pérez
 - Emily Galeas
 
-## 🗂️ Vista Previa del Proyecto
+## 💡 Proyecto
 
 | Apartado             | Vista                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Pokemons | <img src="Imagenes/pokemon.jpeg" width="650" height="650"/> |
-| Usuarios | <img src="Imagenes/usuarios.jpeg" width="650" height="650"/> |
-| Memes | <img src="Imagenes/memes.jpeg" width="650" height="650"/> |
-| Gif | <img src="Imagenes/gif.jpeg" width="650" height="650"/> |
+| Fuente | <img src="Imagenes/pokemon.jpeg" width="650" height="650"/> |
+| Resultado | <img src="Imagenes/Result.jpeg" width="650" height="650"/> |
+
