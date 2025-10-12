@@ -15,6 +15,6 @@ Este proyecto fue completado por las siguientes integrantes:
 
 | Apartado             | Vista                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Fuente | <img src="Imagenes/pokemon.jpeg" width="650" height="650"/> |
+| Fuente | <img src="Imagenes/Instagram.jpeg" width="650" height="650"/> |
 | Resultado | <img src="Imagenes/Result.jpeg" width="650" height="650"/> |
 
