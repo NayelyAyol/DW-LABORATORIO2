@@ -17,4 +17,4 @@ Este proyecto fue completado por las siguientes integrantes:
 
 ## 🧾 Resultados del Proyecto
 
-| Resultado | <img src="Imagenes/Resultado.jpeg" width="650" height="650"/> |
+| Resultado | <img src="Imagenes/Resultados.jpeg" width="650" height="650"/> |
