@@ -10,8 +10,11 @@ let nombreArtista = "Bruno Mars";
 let nacionalidadArtista = "Estadounidense";
 
 // NUMEROS ENTEROS
+let seguidores = 75081755;
 let oyentesMensuales = 113489800
 let cantidadAlbumes = 5;
+let proximasGiras = 2;
+let rankingMundial = 2;
 
 // FLOAT
 let duracionCancionPopular = "3.1833";
@@ -23,3 +26,4 @@ let siguiendoArtista = true;
 // ARRAYS
 let generoMusical = ["Pop", "R&B", "Funk"];
 let cincoCancionePopulares = ["Die With A Smile", "APT.", "Locked out of Heaven", "Just the Way You Are", "When I Was Your Man"];
+let ciudadesTopOyentes = ["Jakarta", "Mexico City", "London", "São Paulo", "Quezon City"];
